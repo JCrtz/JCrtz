@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JCrtz 
+- 👋 Hi, I’m Jorge Cortez.
 - 👀 I’m interested in rock mechanics and thermomechanical modeling apply to mining industry and geological sciences.
 - 🌱 I’m currently learning code FEM models for study magma intrusions 
 - 📫 How to reach me jocortez@uc.cl and jcortez@userena.cl
